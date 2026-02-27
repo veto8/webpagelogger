@@ -3,8 +3,6 @@
 
 An NPM module for your websites that logs webpage visits to your API logger. It asynchronously sends a JSON payload via POST, containing all discernible JavaScript data, including a unique JavaScript fingerprint, to your API upon each visit.
 
-
-
 Demo:
 https://webpagelogger.myridia.com
 
